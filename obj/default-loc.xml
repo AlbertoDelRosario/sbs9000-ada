@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>I:\alberto datos\uni\2018-19\PR3\sbs9000\datos\uni\2018-19\PR3\sbs9000\default.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 56" line=" 135" >
+      <vfs_project>I:\alberto datos\uni\2018-19\PR3\sbs9000\default.gpr</vfs_project>
+      <vfs_file>I:\alberto datos\uni\2018-19\PR3\sbs9000\src\permutations.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 36" >
+      <vfs_project>I:\alberto datos\uni\2018-19\PR3\sbs9000\default.gpr</vfs_project>
+      <vfs_file>I:\alberto datos\uni\2018-19\PR3\sbs9000\src\VectorArrays.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 100" >
+      <vfs_project>I:\alberto datos\uni\2018-19\PR3\sbs9000\default.gpr</vfs_project>
+      <vfs_file>I:\alberto datos\uni\2018-19\PR3\sbs9000\src\VectorArrays.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 56" line=" 12" >
+      <vfs_project>I:\alberto datos\uni\2018-19\PR3\sbs9000\default.gpr</vfs_project>
+      <vfs_file>I:\alberto datos\uni\2018-19\PR3\sbs9000\src\fileio.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
